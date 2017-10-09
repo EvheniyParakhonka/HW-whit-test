@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App to test</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">x</string>
+    <string name="division">/</string>
+    <string name="result">result</string>
+</resources>
